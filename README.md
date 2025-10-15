@@ -19,3 +19,9 @@
 - RAG implementation or embeddings for retrieval
 - LLM for answer synthesis
 Google Drive Link for uploading files to be used as the database:- https://drive.google.com/drive/folders/1ALtBmNFWfm7ZTAvQUZYQqsKbQrihSfSV?usp=sharing
+
+
+
+
+https://github.com/user-attachments/assets/a426e3f4-aeb4-467e-add8-0e8f1b0a4309
+
